@@ -135,3 +135,5 @@ wrangler.toml
 .wrangler/*
 
 .wrangler
+.history
+.vscode
